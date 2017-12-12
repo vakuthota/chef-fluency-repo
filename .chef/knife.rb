@@ -5,5 +5,5 @@ log_level                :info
 log_location             STDOUT
 node_name                "vamshi"
 client_key               "#{current_dir}/vamshi.pem"
-chef_server_url          "https://shahed2sazzad2.mylabserver.com/organizations/linuxacademy"
+chef_server_url          ""
 cookbook_path            ["#{current_dir}/../cookbooks"]
